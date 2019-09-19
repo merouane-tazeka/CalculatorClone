@@ -25,7 +25,7 @@ Project is created using:
 You will need a Mac running Xcode to run this application on your device or your simulator.
 
 * Download the project files to your computer.
-* Run the "Todoz.xcworkspace" file.
+* Run the "CalculatorClone.xcodeproj" file.
 
 ## IV. Architecture
 
@@ -50,5 +50,3 @@ The whole view has been created using only the Main.storyboard file, using Auto 
 The controller fulfills the following tasks:
 * Display the number entered by the user and the obtained result on the Label.
 * Create the separation of the two numbers that the user wants to operate with when he does press an operation button.
-
-
