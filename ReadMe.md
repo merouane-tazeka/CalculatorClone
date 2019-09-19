@@ -1,10 +1,14 @@
+# CalculatorClone
+
+![](./Images/Screenshot.png)
+
+
 # Table of Contents
 
 * I.    General info
 * II.   Technologies
 * III.  Setup
 * IV.   Architecture
-* V.    Screenshots
 
 ## I. General info
 
@@ -47,6 +51,4 @@ The controller fulfills the following tasks:
 * Display the number entered by the user and the obtained result on the Label.
 * Create the separation of the two numbers that the user wants to operate with when he does press an operation button.
 
-## V. Screenshots
 
-![](./Images/Screenshot.png)
