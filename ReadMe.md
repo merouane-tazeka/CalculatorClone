@@ -25,7 +25,7 @@ Project is created using:
 You will need a Mac running Xcode to run this application on your device or your simulator.
 
 * Download the project files to your computer.
-* Run the "CalculatorClone.xcodeproj" file.
+* Run the "**CalculatorClone.xcodeproj**" file.
 
 ## IV. Architecture
 
@@ -33,19 +33,19 @@ You will need a Mac running Xcode to run this application on your device or your
 
 *  Model-View-Controller (MVC)
 
-### IV.I Data Model
+### IV.I. Data Model
 
 Creation of a Struct containing two functions:
 * The first contains all the operations that the user can use.
 * The second calculates the numbers entered by the user with the chosen operation.
 
-### IV.II Views
+### IV.II. Views
 
 The whole view has been created using only the Main.storyboard file, using Auto Layout. The view contains:
 * A Label that shows the number entered by the user and the obtained result.
 * Stack Views containing all the buttons (numbers and operations).
 
-### IV.III Controller
+### IV.III. Controller
 
 The controller fulfills the following tasks:
 * Display the number entered by the user and the obtained result on the Label.
